@@ -12,6 +12,14 @@ function whileLoop(n){
   return 'done';
 }
 
+function incrementVariable() {
+  i++;
+  return i;
+}
+
 function doWhileLoop(num){
-  //code
+  do {
+
+}
+  } while();
 }
